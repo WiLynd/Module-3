@@ -1,5 +1,5 @@
 -- Hiển thị các thông tin  gồm oID, oDate, oPrice của tất cả các hóa đơn trong bảng Order
-use quanlybanhang;
+use quan_ly_ban_hang;
 insert into customer
 values  (1,'Minh Quan',10),
 (2,'Ngọc Oanh',20),
