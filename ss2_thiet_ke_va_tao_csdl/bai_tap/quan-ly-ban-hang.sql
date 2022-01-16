@@ -1,5 +1,5 @@
-CREATE DATABASE QuanLyBanHang;
-USE QuanLyBanHang;
+CREATE DATABASE quan_ly_ban_hang;
+USE quan_ly_ban_hang;
 CREATE TABLE Customer (
     cID INT NOT NULL PRIMARY KEY,
     cName VARCHAR(50) NOT NULL,
