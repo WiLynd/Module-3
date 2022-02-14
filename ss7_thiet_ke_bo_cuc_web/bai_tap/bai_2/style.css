@@ -1,0 +1,442 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+#top
+{
+    width: 1920px;
+    height: 50px;
+}
+
+#top-left
+{
+    width: 350px;
+    height: 50px;
+    float: left;
+}
+
+#logo
+{
+    width: 40px;
+    height: 40px;
+    margin: 5px 5px;
+    float: left;
+}
+
+#logo img
+{
+    width: 100%;
+}
+
+#search
+{
+    width: 300px;
+    height: 50px;
+    float: left;
+}
+
+#search input
+{
+    width: 275px;
+    height: 40px;
+    margin: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+
+#top-mid
+{
+    width: 1170px;
+    height: 50px;
+    float: left;
+    position: relative;
+}
+
+#menu
+{
+    width: 500px;
+    height: 50px;
+    margin-left: 335px;
+    display: block;
+    position: absolute;
+}
+
+#menu ul li
+{
+    margin: 0;
+    padding: 0;
+}
+
+#menu li
+{
+    position: relative;
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    display: block;
+}
+
+#menu a
+{
+    margin-left: 40px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+#top-right
+{
+    width: 400px;
+    height: 50px;
+    float: left;
+}
+
+#icon
+{
+    width: 40px;
+    height: 40px;
+    margin: 5px 5px;
+    background: #f0f2f5;
+    float: right;
+    border-radius: 50%;
+}
+
+#icon img
+{
+    width: 100%;
+    border-radius: 50%;
+}
+
+#homepage
+{
+    width: 100px;
+    height: 40px;
+    margin: 5px 5px;
+    border-radius: 40px;
+    background: #f0f2f5;
+    float: right;
+    text-align: left;
+}
+
+#homepage img
+{
+    width: 40px;
+    border-radius: 40px;
+    float: left;
+}
+
+#homepage p
+{
+    float: left;
+    margin: 10px 10px;
+    font-family: 'Grechen Fuemen', cursive;
+    font-size: 20px;
+}
+
+#mid
+{
+    width: 1920px;
+    height: 915px;
+    background: #f0f2f5;
+}
+
+#mid-left
+{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+#mid-left-top
+{
+    margin: 5% 5%;
+    width: 90%;
+    height: 45%;
+    border-bottom: solid 1px black;
+}
+
+#mid-left-top li
+{
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+#mid-left-top img
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: left;
+}
+
+#mid-left-top a
+{
+    margin: 5px 10px;
+    font-size: 20px;
+    text-decoration: none;
+    float: left;
+}
+
+#mid-left-bot
+{
+    margin: 5% 5%;
+    width: 90%;
+    height: 50%;
+}
+
+#mid-left-bot li
+{
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+#mid-left-bot img
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: left;
+}
+
+#mid-left-bot a
+{
+    margin: 5px 10px;
+    font-size: 20px;
+    text-decoration: none;
+    float: left;
+}
+
+#mid-left-bot input
+{
+    margin: 5px 10px;
+    font-size: 15px;
+    float: right;
+}
+
+#mid-mid
+{
+    width: 60%;
+    height: 100%;
+    float: left;
+}
+
+#mid-mid-1
+{
+    margin: 1% 20%;
+    width: 60%;
+    height: 18%;
+    border-radius: 10px;
+}
+
+#mid-mid-1 input
+{
+    padding-left: 1%;
+    width: 16.1%;
+    height: 100%;
+    border-radius: 10px;
+    background-image: url(https://honghot.net/wp-content/uploads/www_honghot_net-Top-hinh-nen-Zed-sieu-dep-danh-cho-dien-thoai-10.jpg);
+    background-size: 100%;
+}
+
+#mid-mid-2
+{
+    margin: 1% 20%;
+    width: 60%;
+    height: 13%;
+    border-radius: 10px;
+    background: white;
+}
+
+#mid-mid-2 hr
+{
+    margin: 0 1%;
+}
+
+#mid-mid-2-split
+{
+    margin: 1% 1%;
+    width: 98%;
+    height: 42%;
+    float: left;
+}
+
+#mid-mid-2-split img
+{
+    margin: 8px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: left;
+}
+
+#mid-mid-2-split input
+{
+    width: 85%;
+    margin: 1% 8px;
+    font-size: 20px;
+    padding: 1% 1% 1% 2%;
+    border-radius: 20px;
+    text-align: left;
+    float: left;
+}
+
+#mid-mid-2-split-bot
+{
+    margin-left: 1%;
+    width: 32%;
+    height: 60%;
+    padding-top: 1%;
+    float: left;
+    text-align: center;
+}
+
+#mid-mid-2-split-bot a
+{
+    text-decoration: none;
+}
+
+#mid-mid-3
+{
+    margin: 1% 20%;
+    width: 60%;
+    height: 8%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#mid-mid-3-left
+{
+    margin: 1% 1%;
+    width: 30%;
+    height: 82%;
+    float: left;
+    text-align: center;
+}
+
+#mid-mid-3-left input
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+
+#mid-mid-3-right
+{
+    margin: 1% 1%;
+    width: 66%;
+    height: 82%;
+    float: left;
+}
+
+#mid-mid-3-right input
+{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-image: url(https://2.bp.blogspot.com/-OScKKkoGMH4/XNseh-wIBWI/AAAAAAABS4s/BI1UnbFUCkgjA9DAE87cV1ITeRX145vmwCLcBGAs/s1600/4070.jpg);
+    background-size: 100%;
+}
+
+#mid-mid-4
+{
+    margin: 1% 20%;
+    width: 58%;
+    height: 53%;
+    border-radius: 10px;
+    background-color: white;
+    padding: 1%;
+}
+
+#mid-mid-4 img
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+}
+
+#mid-mid-4 p
+{
+    text-align: justify;
+}
+
+#mid-right
+{
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+
+#mid-right h2
+{
+    margin: 0 1%;
+    padding: 1%;
+}
+
+#mid-right-top
+{
+    margin-right: 5%;
+    width: 95%;
+    height: 15%;
+    border-bottom: solid 1px black;
+}
+
+#mid-right-center
+{
+    margin-right: 5%;
+    width: 95%;
+    height: 35%;
+    border-bottom: solid 1px black;
+}
+
+#mid-right-center img
+{
+    padding: 5%;
+    width: 30%;
+    float: left;
+}
+
+#mid-right-bot
+{
+    margin-right: 5%;
+    width: 95%;
+    height: 50%;
+}
+
+#mid-right-bot li
+{
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+#mid-right-bot img
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: left;
+}
+
+#mid-right-bot a
+{
+    margin: 5px 10px;
+    font-size: 20px;
+    text-decoration: none;
+    float: left;
+}

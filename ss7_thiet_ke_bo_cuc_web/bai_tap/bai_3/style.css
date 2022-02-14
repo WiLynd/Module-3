@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+}
+
+#hovering:hover{
+    background: #0f5132;
+}
+.hovering li:hover{
+    background: #0f5132;
+}
+.cot1 li {
+
+    margin: 15px;
+}
+
+.cot1 li a{
+    color: white;
+}
+
+.cot1 a:hover {
+    background: deeppink;
+    color: white;
+    text-shadow: 5px 5px 7px #0f5132;
+}
+
+.dong1 {
+    border-bottom: solid;
+    padding-bottom: 50px;
+}
+
+.background button{   width: 75%;
+    margin: 15px 0;
+    height: 100px;
+    font-size: 30px;
+
+}
+.background{
+
+    background: gray;
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+.footer {
+    background: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
